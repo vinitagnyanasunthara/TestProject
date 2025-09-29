@@ -1,3 +1,3 @@
-function myFunction() {
-  Logger.log("Hello from clasp!");
+function myFunction() { 
+  Logger.log("Hello from clasp!"); 
 }
