@@ -8,7 +8,7 @@ function writeNumbersToSheet1() {
   // Clear old content
   sheet.clear();
   
-  // Prepare numbers 1 to 10 hello
+  // Prepare numbers 1 to 10 
   var numbers = [];
   for (var i = 1; i <= 15; i++) {
     numbers.push([i]); // wrap in array for column format
